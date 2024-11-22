@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 
 public class Main {
     public static void main(String[] args) {
- JFrame frame = new JFrame("Codificação e Decodificação");
+        JFrame frame = new JFrame("Codificação e Decodificação");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500, 400);
 
